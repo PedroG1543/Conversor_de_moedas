@@ -1,4 +1,4 @@
-🚀 Funcionalidades
+🚀 FUNCIONALIDADES
 
 - Conversão entre diferentes moedas internacionais
 
@@ -10,7 +10,7 @@
 
 - Exibição clara do valor convertido
 
-🛠️ Tecnologias Utilizadas
+🛠️ TECNOLOGIAS UTILIZADAS
 
 HTML5 — Estrutura da aplicação
 
@@ -20,7 +20,7 @@ JavaScript (ES6+) — Lógica de conversão e consumo da API
 
 API de Câmbio — Fornece as taxas de conversão em tempo real
 
-📌 Objetivo do Projeto
+📌 OBJETIVO DO PROJETO
 
 O objetivo deste projeto é praticar:
 
@@ -34,6 +34,6 @@ O objetivo deste projeto é praticar:
 
 - Criação de interfaces responsivas
 
-📷 Demonstração
+📷 DEMONSTRAÇÃO
 
 O usuário insere o valor, escolhe as moedas de origem e destino, e o sistema retorna o valor convertido com base na cotação atual.
